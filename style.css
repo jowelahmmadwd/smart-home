@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(180deg, #52127f, #cd0b84);
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.manu li{
+    margin: 0 30px;
+}
+
+.mid-2{
+    background-image: url(images/back-2.png), url(images/back-1.png);
+    background-position: top left, top right;
+    background-repeat: no-repeat;
+    background-size: 300px 500px, 300px 500px;
+}
+.box{
+    margin: 50px 0;
+    background-image: linear-gradient(#f338ab9d, #fd4cb9a1, #f722a585);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px hwb(323 1% 20%);
+}
+.card-1{
+    background-image: linear-gradient(#52127fe5, #8b18dd91 );
+    border: 1px solid linear-gradient(#c786f5, #580c8ff6);
+    box-shadow: 5px 5px 25px #86095d;
+    border-radius: 15px;
+    
+}
+.box-b{
+    width: 100px;
+    height: 50px;
+    border: 1px solid white;
+}
+.container{
+    padding: 0 30px;
+}
+.grd{
+    background-image: linear-gradient(360deg, #96046f 10%, rgba(221, 218, 218, 0.295) 90%);
+    border-top: 2px solid rgba(255, 255, 255, 0.521);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.199);
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 30px #53013d;
+}
+.col-6>p{
+    font-weight: 200;
+    font-size: 13px;
+    margin: 2px 0 2px 35px;
+}
+.col-6>h4{
+    font-weight: 400;
+    font-size: 20px;
+    margin: 10px 0 25px 35px;
+}
+.blk{
+    height: 50px;
+    background-color: #53013d;
+    margin-bottom: 40px;
+}
